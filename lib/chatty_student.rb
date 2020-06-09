@@ -1,2 +1,4 @@
-class chatty_student 
+class ChattyStudent < User 
+  def hello 
+    
 end 
